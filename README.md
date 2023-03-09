@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
+This Tour of Heroes tutorial provides an introduction to the fundamentals of Angular.
+
+The Tour of Heroes application helps a staffing agency manage its stable of heroes. The application has many of the features that you'd expect to find in any data-driven application.
+
+The finished application:
+- Gets a list of heroes
+- Displays the heroes in a list
+- Edits a selected hero's details
+- Navigates between different views of heroic data
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
